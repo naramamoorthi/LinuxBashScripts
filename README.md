@@ -1,7 +1,2 @@
 # LinuxBashScripts
-echo "# LinuxBashScripts" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/naramamoorthi/LinuxBashScripts.git
-git push -u origin master
+Here are Linux Bash Scripts that I've created for my own use. Feel free to copy, use and modify as you see fit.
